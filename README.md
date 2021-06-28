@@ -3,20 +3,20 @@
 1) What is stack overflow and when it will be occurred scenario.
 2) What is classloader and type of classloader.
 3) what will be happen if we start thread twice and which exception will be occurred.
-4) Which is better Treeset or Hashset and Why?
+4) Which is better TreeSet or HashSet and Why?
 5) GCD Program using recursive and different approach.
-6) what is difference between system.exit(0). Will finally execute or different parameter.
+6) What is difference between system.exit(0). Will finally execute or different parameter.
 7) finalize method.
-8) Hashcode and equals contract explain details.
-9) What is difference between hashmap and hashtable
-10) What is difference between string constant pool and string object
-11) What is difference between overloading and overriding
-12) What is difference between interface and abstract claass
-13) How we handle multiple exception in one catch
-14) Diff between StringBuffer and StringBuilder
-15) Use of Native and volatile keyword
-16) Comparable and Comparator
-17) Internal Implementation of HashMap
+8) hashcode and equals contract explain details.
+9) What is difference between HashMap and HashTable.
+10) What is difference between string constant pool and string object.
+11) What is difference between method overloading and overriding.
+12) What is difference between interface and abstract class.
+13) How we handle multiple exception in one catch.
+14) Difference between StringBuffer and StringBuilder.
+15) Use of Native and volatile keyword.
+16) Comparable and Comparator.
+17) Internal Implementation of HashMap.
 18) Difference between HashTable and HashMap
 19) What is lambda expression?
 20) What is the features of java 1.9 
