@@ -3,7 +3,7 @@
 1) What is stack overflow and when it will be occurred scenario.
 2) What is classloader and type of classloader.
 3) what will be happen if we start thread twice and which exception will be occurred.
-4) Which is better treeset or hashset and why
+4) Which is better Treeset or Hashset and Why?
 5) GCD Program using recursive and different approach.
 6) what is difference between system.exit(0). Will finally execute or different parameter.
 7) finalize method.
